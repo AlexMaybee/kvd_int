@@ -1,0 +1,11 @@
+span[data-userid="chat1"] {
+    display: none!important;
+}
+
+.bx-messenger-chatlist-show-all span[data-userid="chat1"] {
+    display: none!important;
+}
+
+.bx-messenger-chat-general-first-open, .bx-messenger-chat-general {
+    display: none!important;
+}

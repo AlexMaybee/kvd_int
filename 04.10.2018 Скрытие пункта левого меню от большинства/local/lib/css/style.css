@@ -1,0 +1,12 @@
+span.webform-small-button.webform-small-button-print-task {
+    float: right;
+    background: #FF9800;
+    color: #FFF;
+}
+.side-panel-print {
+    display: none;
+}
+
+/*span[data-userid="chat1"] {*/
+    /*display: none;*/
+/*}*/

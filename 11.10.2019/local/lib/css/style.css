@@ -1,0 +1,24 @@
+span.webform-small-button.webform-small-button-print-task {
+    float: right;
+    background: #FF9800;
+    color: #FFF;
+}
+
+
+span.webform-small-button.webform-small-button-exit_aud-task {
+    float: right;
+    background: #ff2e0e;
+    color: #FFF;
+}
+
+.side-panel-print {
+    display: none;
+}
+
+
+.main-ui-control-field .select2-container {
+    width: 100%!important;
+}
+/*span[data-userid="chat1"] {*/
+    /*display: none;*/
+/*}*/
